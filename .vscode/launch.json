@@ -13,12 +13,4 @@
             "--extensionDevelopmentPath=${workspaceFolder}"
         ],
     }],
-    "extensionPack": [
-        "oderwat.indent-rainbow",
-        "pkief.material-icon-theme",
-        "liviuschera.noctis",
-        "ms-vscode.sublime-keybindings",
-        "eamodio.gitlens",
-        "steoates.autoimport"
-    ]
 }

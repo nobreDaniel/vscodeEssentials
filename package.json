@@ -9,26 +9,12 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
-        "Archety.material-icons", 
-        "Atom.rc-beautify", 
-        "eg2.tslint", 
-        "HookyQR.beautify", 
-        "hoovercj.vscode-power-mode", 
-        "joshpeng.sublime-babel-vscode", 
-        "liviuschera.noctis", 
-        "michelemelluso.code-beautifier", 
-        "Mikael.Angular-BeastCode", 
-        "ms-vscode.sublime-keybindings", 
-        "msjsdiag.vscode-react-native", 
-        "oderwat.indent-rainbow", 
-        "ph-hawkins.arc-plus", 
-        "PKief.material-icon-theme", 
-        "ritwickdey.LiveServer", 
-        "robinbentley.sass-indented", 
-        "sdras.night-owl", 
-        "shinnn.stylelint", 
-        "steoates.autoimport", 
-        "teabyii.ayu"
+    "extensionPack": [
+        "oderwat.indent-rainbow",
+        "pkief.material-icon-theme",
+        "liviuschera.noctis",
+        "ms-vscode.sublime-keybindings",
+        "eamodio.gitlens",
+        "steoates.autoimport"
     ]
 }
